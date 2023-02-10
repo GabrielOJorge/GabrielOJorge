@@ -20,6 +20,13 @@
   ##
   
 <div>
-  <a href = "mailto:goliver331@protonmail"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-o-jorge-223180219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:goliver331@protonmail">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-o-jorge-223180219/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://gabrielojorge.github.io/Portifolio" target="_blank">
+    <img src="https://img.shields.io/website?style=for-the-badge&up_color=green&up_message=portifolio&url=https%3A%2F%2Fgabrielojorge.github.io%2FPortifolio%2F" target="_blank">
+  </a>
 </div>
